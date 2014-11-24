@@ -2,7 +2,6 @@
 /**
  * share.ez-app.net
  * Signed-off-by: Max Huang <max@ez-app.net>
- * 一定要試試看
  */
 ?>
 <!DOCTYPE html>
