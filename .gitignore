@@ -1,7 +1,0 @@
-.gitignore
-.project
-.buildpath
-.settings/
-*~
-# ignore all .txt files in the doc/ directory
-# doc/**/*.txt
