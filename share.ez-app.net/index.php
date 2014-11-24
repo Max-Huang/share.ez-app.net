@@ -1,5 +1,6 @@
 <?php
 $t = '分享程式碼';
+
 ?>
 <!DOCTYPE html>
 <html>
